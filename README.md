@@ -119,7 +119,7 @@
 <!-- <a href="https://hashnode.com/@webdev-haris" target="_blank">
 <img src=https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
 </a> -->
-<a href="https://codepen.com/webdev-haris" target="_blank">
+<a href="https://codepen.com/Rizwan-Haris" target="_blank">
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 </a>
 <a href="https://stackoverflow.com/users/22687976/rizwan-haris" target="_blank">
